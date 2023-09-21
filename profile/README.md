@@ -64,14 +64,14 @@ We encourage members to contribute to the club in various ways:
 If you have any questions, suggestions, or need assistance, feel free to reach out to us:
 
 **1. Abdul Majid (Lead Coordinator)**
-- [![Email](https://img.shields.io/badge/Email-%23DB4437)](majidabd@student.iul.ac.in)  [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2351D366)](https://wa.me/+918052577689)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5)](https://www.linkedin.com/in/majidabdulred/)
+- [![Email](https://img.shields.io/badge/Email-%23DB4437)](mailto:majidabd@student.iul.ac.in)  [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2351D366)](https://wa.me/+918052577689)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5)](https://www.linkedin.com/in/majidabdulred/)
 
 **2. Ali Raza**
-- [![Email](https://img.shields.io/badge/Email-%23DB4437)](@student.iul.ac.in) [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2351D366)](https://wa.me/+916388346966) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5)](https://www.linkedin.com/in//)
+- [![Email](https://img.shields.io/badge/Email-%23DB4437)](mailto:@student.iul.ac.in) [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2351D366)](https://wa.me/+916388346966) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5)](https://www.linkedin.com/in//)
 
 
 **3. Aksha Malik**
-- [![Email](https://img.shields.io/badge/Email-%23DB4437)](majidabd@student.iul.ac.in)  [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2351D366)](https://wa.me/+917651917930) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5)](https://www.linkedin.com/in//)
+- [![Email](https://img.shields.io/badge/Email-%23DB4437)](mailto:@student.iul.ac.in)  [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2351D366)](https://wa.me/+917651917930) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5)](https://www.linkedin.com/in//)
 
 We're excited to have you as a part of our Code Club community. Let's learn, code, and grow together!
 
