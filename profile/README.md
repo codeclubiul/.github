@@ -24,7 +24,7 @@ Our Code Club is a community of like-minded individuals passionate about coding,
 
 To get started with Code Club, follow these steps:
 
-1. **Join Our Club:** If you haven't already, join our club on [https://forms.gle/3CjVrwLaAa69EkGr8].
+1. **Join Our Club:** If you haven't already, join our club on [Whatsapp](https://forms.gle/3CjVrwLaAa69EkGr8).
 2. **Introduce Yourself:** Head over to our [introductions channel/section] and introduce yourself to the community. We'd love to get to know you!
 3. **Familiarize Yourself with Club Guidelines:** Take a moment to read our club's [code of conduct/club rules] to ensure a positive and respectful experience for all members.
 4. **Explore Resources:** Check out our [resource library/link] for tutorials, documentation, and other learning materials.
@@ -35,8 +35,8 @@ To get started with Code Club, follow these steps:
 At Code Club, we engage in various activities, including:
 
 ### Scheduled : 
-- **Web Weavers:** [https://github.com/codeclubiul/webweavers]
-- **Hackathon Challenge** [https://forms.gle/EYF6ACiBxohrfEB5A]
+- [**Web Weavers:**](https://github.com/codeclubiul/webweavers)
+- [**Hackathon Challenge**](https://forms.gle/EYF6ACiBxohrfEB5A)
 - ### More : 
 - **Workshops:** Periodic workshops on programming languages, tools, and technologies.
 - **Coding Challenges:** Fun coding challenges to test your skills and creativity.
@@ -64,10 +64,10 @@ We encourage members to contribute to the club in various ways:
 If you have any questions, suggestions, or need assistance, feel free to reach out to us:
 
 **1. Abdul Majid**
-- **Email:** [majidabd@student.iul.ac.in]
+- [**Email:**](majidabd@student.iul.ac.in)
 - **Contact No.** [+91 80525 77689]
-- **GitHub Organization:** [https://github.com/codeclubiul]
-- **Social Media:** [https://www.linkedin.com/in/majidabdulred/]
+- [**GitHub Organization:**](https://github.com/codeclubiul)
+- [**Social Media:**](https://www.linkedin.com/in/majidabdulred/)
 
 **2. Ali Raza**
 - **Email:** [@student.iul.ac.in]
