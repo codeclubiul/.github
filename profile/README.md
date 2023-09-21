@@ -4,14 +4,14 @@
 Welcome to the Code Club! We're thrilled to have you here. This README file will provide you with all the essential information you need to get started and make the most of your time with our club.
 
 ## Table of Contents
-1. [About Code Club](#about-code-club)
+1. [About Us](#about-us)
 2. [Getting Started](#getting-started)
 3. [Club Activities](#club-activities)
 4. [Projects](#projects)
 5. [Contributing](#contributing)
 6. [Contact Information Club Coordinators](#contact-information-club-coordinators)
 
-## About Code Club
+## About Us
 
 Our Code Club is a community of like-minded individuals passionate about coding, technology, and learning. Whether you're a beginner or an experienced developer, you'll find a welcoming and supportive environment here. Our goals include:
 
@@ -24,7 +24,7 @@ Our Code Club is a community of like-minded individuals passionate about coding,
 
 To get started with Code Club, follow these steps:
 
-1. **Join Our Club:** If you haven't already, join our club on [Whatsapp](https://forms.gle/3CjVrwLaAa69EkGr8).
+1. **Join Our Club:** If you haven't already, join our club on [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2351D366)](https://forms.gle/3CjVrwLaAa69EkGr8).
 2. **Introduce Yourself:** Head over to our [introductions channel/section] and introduce yourself to the community. We'd love to get to know you!
 3. **Familiarize Yourself with Club Guidelines:** Take a moment to read our club's [code of conduct/club rules] to ensure a positive and respectful experience for all members.
 4. **Explore Resources:** Check out our [resource library/link] for tutorials, documentation, and other learning materials.
@@ -63,23 +63,15 @@ We encourage members to contribute to the club in various ways:
 
 If you have any questions, suggestions, or need assistance, feel free to reach out to us:
 
-**1. Abdul Majid**
-- [**Email:**](majidabd@student.iul.ac.in)
-- **Contact No.** [+91 80525 77689]
-- [**GitHub Organization:**](https://github.com/codeclubiul)
-- [**Social Media:**](https://www.linkedin.com/in/majidabdulred/)
+**1. Abdul Majid (Lead Coordinator)**
+- [![Email](https://img.shields.io/badge/Email-%23DB4437)](majidabd@student.iul.ac.in)  [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2351D366)](https://wa.me/+918052577689)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5)](https://www.linkedin.com/in/majidabdulred/)
 
 **2. Ali Raza**
-- **Email:** [@student.iul.ac.in]
-- **Contact No.** [+91 ]
-- **GitHub Organization:** [https://github.com/codeclubiul]
-- **Social Media:** [https://www.linkedin.com/in//]
+- [![Email](https://img.shields.io/badge/Email-%23DB4437)](@student.iul.ac.in) [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2351D366)](https://wa.me/+916388346966) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5)](https://www.linkedin.com/in//)
+
 
 **3. Aksha Malik**
-- **Email:** [@student.iul.ac.in]
-- **Contact No.** [+91 ]
-- **GitHub Organization:** [https://github.com/codeclubiul]
-- **Social Media:** [https://www.linkedin.com/in/m/]
+- [![Email](https://img.shields.io/badge/Email-%23DB4437)](majidabd@student.iul.ac.in)  [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2351D366)](https://wa.me/+917651917930) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5)](https://www.linkedin.com/in//)
 
 We're excited to have you as a part of our Code Club community. Let's learn, code, and grow together!
 
