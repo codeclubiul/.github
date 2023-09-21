@@ -63,7 +63,7 @@ We encourage members to contribute to the club in various ways:
 
 If you have any questions, suggestions, or need assistance, feel free to reach out to us:
 
-**1. Abdul Majid (Lead Coordinator)**
+**1. Abdul Majid (Club Lead)**
 - [![Email](https://img.shields.io/badge/Email-%23DB4437)](mailto:majidabd@student.iul.ac.in)  [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2351D366)](https://wa.me/+918052577689)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5)](https://www.linkedin.com/in/majidabdulred/)
 
 **2. Ali Raza**
