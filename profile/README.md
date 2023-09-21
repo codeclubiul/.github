@@ -67,7 +67,7 @@ If you have any questions, suggestions, or need assistance, feel free to reach o
 - [![Email](https://img.shields.io/badge/Email-%23DB4437)](mailto:majidabd@student.iul.ac.in)  [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2351D366)](https://wa.me/+918052577689)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5)](https://www.linkedin.com/in/majidabdulred/)
 
 **2. Ali Raza**
-- [![Email](https://img.shields.io/badge/Email-%23DB4437)](mailto:@student.iul.ac.in) [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2351D366)](https://wa.me/+916388346966) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5)](https://www.linkedin.com/in//)
+- [![Email](https://img.shields.io/badge/Email-%23DB4437)](mailto:razaaali@student.iul.ac.in) [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2351D366)](https://wa.me/+916388346966) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5)](https://www.linkedin.com/in/syed-raza-ali-363625222)
 
 
 **3. Aksha Malik**
