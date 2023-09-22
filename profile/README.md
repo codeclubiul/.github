@@ -4,14 +4,14 @@
 Welcome to the Code Club! We're thrilled to have you here. This README file will provide you with all the essential information you need to get started and make the most of your time with our club.
 
 ## Table of Contents
-1. [About Us](#about-us)
-2. [Getting Started](#getting-started)
-3. [Club Activities](#club-activities)
+1. [About Us](#-about-us)
+2. [Getting Started](#-getting-started)
+3. [Club Activities](#-club-activities)
 4. [Projects](#projects)
 5. [Contributing](#contributing)
-6. [Contact Information Club Coordinators](#contact-information-club-coordinators)
+6. [Contact Information Club Coordinators](#-contact-information-club-coordinators)
 
-## About Us
+## 🧧 About Us
 
 Our Code Club is a community of like-minded individuals passionate about coding, technology, and learning. Whether you're a beginner or an experienced developer, you'll find a welcoming and supportive environment here. Our goals include:
 
@@ -20,7 +20,7 @@ Our Code Club is a community of like-minded individuals passionate about coding,
 - Networking with fellow coding enthusiasts.
 - Having fun while expanding our coding skills!
 
-## Getting Started
+## ✨ Getting Started
 
 To get started with Code Club, follow these steps:
 
@@ -30,12 +30,15 @@ To get started with Code Club, follow these steps:
 4. **Explore Resources:** Check out our [resource library/link] for tutorials, documentation, and other learning materials.
 5. **Attend Meetings:** Join our regular meetings and events. Information about upcoming events can be found on our [events calendar/link].
 
-## Club Activities
+## 🏆 Club Activities
 
 At Code Club, we engage in various activities, including:
 
-### Scheduled : 
+### Ongoing : 
 - [**Web Weavers:**](https://github.com/codeclubiul/webweavers)
+-    [**Chapter - 1**](https://github.com/codeclubiul/webweavers/wiki/Chapter1)
+-    **Chapter - 2** - COMING SOON
+### Upcoming :
 - [**Hackathon Challenge**](https://forms.gle/EYF6ACiBxohrfEB5A)
 - ### More : 
 - **Workshops:** Periodic workshops on programming languages, tools, and technologies.
@@ -59,7 +62,7 @@ We encourage members to contribute to the club in various ways:
 - **Mentorship:** Offer or seek mentorship from experienced members.
 - **Spread the Word:** Help us grow by inviting friends and sharing our club with your network.
 
-## Contact Information Club Coordinators
+## 📱 Contact Information Club Coordinators
 
 If you have any questions, suggestions, or need assistance, feel free to reach out to us:
 
