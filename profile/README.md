@@ -25,7 +25,7 @@ Our Code Club is a community of like-minded individuals passionate about coding,
 To get started with Code Club, follow these steps:
 
 1. **Join Our Club:** If you haven't already, join our club on [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2351D366)](https://forms.gle/3CjVrwLaAa69EkGr8).
-2. **Introduce Yourself:** Head over to our [introductions channel/section] and introduce yourself to the community. We'd love to get to know you!
+2. **Introduce Yourself:** Head over to our [Whatsapp] and introduce yourself to the community. We'd love to get to know you!
 3. **Familiarize Yourself with Club Guidelines:** Take a moment to read our club's [code of conduct/club rules] to ensure a positive and respectful experience for all members.
 4. **Explore Resources:** Check out our [resource library/link] for tutorials, documentation, and other learning materials.
 5. **Attend Meetings:** Join our regular meetings and events. Information about upcoming events can be found on our [events calendar/link].
@@ -39,7 +39,7 @@ At Code Club, we engage in various activities, including:
 -    [**Chapter - 1**](https://github.com/codeclubiul/webweavers/wiki/Chapter1)
 -    **Chapter - 2** - COMING SOON
 ### Upcoming :
-- [**Hackathon Challenge**](https://forms.gle/EYF6ACiBxohrfEB5A)
+- [**Hackathon Challenge**](https://forms.gle/EYF6ACiBxohrfEB5A) [29-Sep-2023]
 - ### More : 
 - **Workshops:** Periodic workshops on programming languages, tools, and technologies.
 - **Coding Challenges:** Fun coding challenges to test your skills and creativity.
