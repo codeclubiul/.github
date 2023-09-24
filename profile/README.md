@@ -92,7 +92,7 @@ If you have any questions, suggestions, or need assistance, feel free to reach o
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/codeclubiul/.github/blob/main/placeholder.png" alt="Image 1 Alt Text">
+            <img src="https://github.com/codeclubiul/.github/blob/main/res/taha.png" alt="Image 1 Alt Text">
            <br> <b>Taha Iftikhar</b> <br>
             <a href="www.linkedin.com/in/ifti-taha">
                 <img src="https://github.com/codeclubiul/.github/blob/main/res/linkedin32.png">
