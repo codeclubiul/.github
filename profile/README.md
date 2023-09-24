@@ -62,7 +62,7 @@ If you have any questions, suggestions, or need assistance, feel free to reach o
         <td>
             <img src="https://github.com/codeclubiul/.github/blob/main/res/majid240.png" alt="Image 1 Alt Text">
             <br> <b>Abdul Majid</b> <br>
-            <a href="https://www.linkedin.com/">
+            <a href="https://www.linkedin.com/in/majidabdulred/">
                 <img src="https://github.com/codeclubiul/.github/blob/main/res/linkedin32.png">
             </a>
             <a href="https://www.github.com/">
@@ -72,7 +72,7 @@ If you have any questions, suggestions, or need assistance, feel free to reach o
         <td>
             <img src="https://github.com/codeclubiul/.github/blob/main/placeholder.png" alt="Image 1 Alt Text">
              <br> <b>Syed Raza Ali</b> <br>
-            <a href="https://www.linkedin.com/">
+            <a href="https://www.linkedin.com/in/syed-raza-ali-363625222">
                 <img src="https://github.com/codeclubiul/.github/blob/main/res/linkedin32.png">
             </a>
             <a href="https://www.github.com/">
@@ -94,7 +94,7 @@ If you have any questions, suggestions, or need assistance, feel free to reach o
         <td>
             <img src="https://github.com/codeclubiul/.github/blob/main/placeholder.png" alt="Image 1 Alt Text">
            <br> <b>Taha Iftikhar</b> <br>
-            <a href="https://www.linkedin.com/">
+            <a href="www.linkedin.com/in/ifti-taha">
                 <img src="https://github.com/codeclubiul/.github/blob/main/res/linkedin32.png">
             </a>
             <a href="https://www.github.com/">
