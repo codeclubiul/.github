@@ -97,7 +97,7 @@ If you have any questions, suggestions, or need assistance, feel free to reach o
             <a href="www.linkedin.com/in/ifti-taha">
                 <img src="https://github.com/codeclubiul/.github/blob/main/res/linkedin32.png">
             </a>
-            <a href="https://www.github.com/">
+            <a href="https://www.github.com/dexter-ifti">
                 <img src="https://github.com/codeclubiul/.github/blob/main/res/github32.png">
             </a>
         </td>
