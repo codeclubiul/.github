@@ -40,7 +40,7 @@ Welcome to the Code Club! We're a vibrant community of coding enthusiasts. Wheth
   - [**Chapter - 1**](https://github.com/codeclubiul/webweavers/wiki/Chapter1)
   - **Chapter - 2** - COMING SOON
 
-### Recent Events:
+### Recent Activities:
 - [**Hackathon Challenge**](https://forms.gle/EYF6ACiBxohrfEB5A) - 29-Sep-2023
 
 ### More Activities:
