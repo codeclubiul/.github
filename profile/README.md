@@ -38,14 +38,16 @@ Welcome to the Code Club! We're a vibrant community of coding enthusiasts. Wheth
 ### Ongoing Activities:
 - [**Web Weavers:**](https://github.com/codeclubiul/webweavers)
   - [**Chapter - 1**](https://github.com/codeclubiul/webweavers/wiki/Chapter1)
+    - [**Results**](https://github.com/codeclubiul/webweavers/wiki/Results)
+    - [**Certificate Distribution**](https://github.com/codeclubiul/webweavers/wiki/Certificates) 
   - **Chapter - 2** - COMING SOON
 
-
-
-[**Hackathon 2.O**](https://docs.google.com/forms/d/e/1FAIpQLScTfbvuQfybGldvpyD7N6oUODiTwpeKRiAV9agwrbnFtu9GOg/viewform?usp=send_form) - 18-Nov-2023
+- [**Hackathon 2.O**](https://docs.google.com/forms/d/e/1FAIpQLScTfbvuQfybGldvpyD7N6oUODiTwpeKRiAV9agwrbnFtu9GOg/viewform?usp=send_form) - 18-Nov-2023
 
 ### Recent Activities:
 - [**Hackathon Challenge**](https://forms.gle/EYF6ACiBxohrfEB5A) - 29-Sep-2023
+  - [**Results**](https://github.com/codeclubiul/quiz-competition/blob/main/RESULTS.md)
+  - [**Certificate Distribution**](https://github.com/codeclubiul/quiz-competition/blob/main/Certicate%20/Photos.md)   
 
 ### More Activities:
 - **Workshops:** Periodic sessions on various tech topics.
